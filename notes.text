@@ -1,0 +1,15 @@
+una vez reiniciado la pc para poder usar heroku poner>
+
+1. heroku  login
+
+se abre la pagina de heroki y se logea
+
+2.git init
+
+3, heroku git:remote -a express-2-2
+
+3. git  add.
+4. git commit -am "make it better"
+5. git push heroku master
+
+Luego se va a desplegar la app en un dominio de heroku.
