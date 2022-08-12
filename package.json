@@ -4,14 +4,17 @@
   "description": "",
   "main": "ejemplo.js",
   "scripts": {
-    "start": "node express"
+    "start": "node express",
+    "dev": "nodemon express"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "cowsay": "^1.5.0",
+    "dotenv": "^16.0.1",
     "ejs": "^3.1.8",
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "mongoose": "^6.5.2"
   }
 }

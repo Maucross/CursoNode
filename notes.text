@@ -13,3 +13,12 @@ se abre la pagina de heroki y se logea
 5. git push heroku master
 
 Luego se va a desplegar la app en un dominio de heroku.
+
+
+Despues de hacer toda esta mrd este en mi app wiii
+
+https://miproyectonode.herokuapp.com/
+
+
+nodemon express
+npm run dev
